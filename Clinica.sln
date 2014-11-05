@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Clinica", "Clinica.vbproj", "{24BEC95E-CC9D-41B1-9572-9743DE805A3E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Manager", "Manager\Manager.vbproj", "{B88A02C9-C320-417A-9990-0D6D5E84D594}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Model", "Model\Model.vbproj", "{0C509020-659C-40D9-8A38-9C3E34FD02B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24BEC95E-CC9D-41B1-9572-9743DE805A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BEC95E-CC9D-41B1-9572-9743DE805A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BEC95E-CC9D-41B1-9572-9743DE805A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BEC95E-CC9D-41B1-9572-9743DE805A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88A02C9-C320-417A-9990-0D6D5E84D594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88A02C9-C320-417A-9990-0D6D5E84D594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88A02C9-C320-417A-9990-0D6D5E84D594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88A02C9-C320-417A-9990-0D6D5E84D594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C509020-659C-40D9-8A38-9C3E34FD02B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C509020-659C-40D9-8A38-9C3E34FD02B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C509020-659C-40D9-8A38-9C3E34FD02B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C509020-659C-40D9-8A38-9C3E34FD02B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
