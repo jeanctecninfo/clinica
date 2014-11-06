@@ -7,3 +7,12 @@ C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Cl
 C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Clinica\Model\obj\Debug\Model.xml
 C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Clinica\Model\obj\Debug\Model.pdb
 C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Clinica\Model\bin\Debug\Model.dll.config
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\bin\Debug\Model.dll.config
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\bin\Debug\Model.dll
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\bin\Debug\Model.pdb
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\bin\Debug\Model.xml
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\obj\Debug\Model.Resources.resources
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\obj\Debug\Model.vbproj.GenerateResource.Cache
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\obj\Debug\Model.dll
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\obj\Debug\Model.xml
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\obj\Debug\Model.pdb

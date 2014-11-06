@@ -12,3 +12,17 @@ C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Cl
 C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Clinica\bin\Debug\Model.xml
 C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Clinica\obj\Debug\Clinica.exe
 C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Clinica\obj\Debug\Clinica.pdb
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\bin\Debug\Clinica.exe.config
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\obj\Debug\Clinica.exe
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\obj\Debug\Clinica.pdb
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\bin\Debug\Clinica.exe
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\bin\Debug\Clinica.pdb
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\bin\Debug\Manager.dll
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\bin\Debug\Model.dll
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\bin\Debug\Manager.pdb
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\bin\Debug\Manager.xml
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\bin\Debug\Model.pdb
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\bin\Debug\Model.xml
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\obj\Debug\Clinica.vbprojResolveAssemblyReference.cache
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\obj\Debug\Clinica.FrmTeste.resources
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\obj\Debug\Clinica.vbproj.GenerateResource.Cache

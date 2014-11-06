@@ -10,3 +10,15 @@ C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Cl
 C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Clinica\Manager\obj\Debug\Manager.dll
 C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Clinica\Manager\obj\Debug\Manager.xml
 C:\Users\Jefferson\Documents\Faculdade\Linguagem de programação II\Trabalho\Clinica\Manager\obj\Debug\Manager.pdb
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\bin\Debug\Manager.dll
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\bin\Debug\Manager.pdb
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\bin\Debug\Manager.xml
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\bin\Debug\Model.dll
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\bin\Debug\Model.pdb
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\bin\Debug\Model.xml
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Manager.Resources.resources
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Manager.vbproj.GenerateResource.Cache
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Manager.dll
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Manager.xml
+C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Manager.pdb

@@ -20,4 +20,19 @@ Public Class SQLServerConnection
         cmd.ExecuteNonQuery()
     End Sub
 
+    Public Function ExecConsulta(query As String)
+        Dim dt As DataTable
+
+        Dim sqlDataAdapter As New SqlDataAdapter()
+        Dim sqlCommand As New SqlCommand(query, Me.conn)
+
+        Me.doConn()
+
+        sqlDataAdapter.Fill(sqlCommand)
+
+
+        Return dt
+    End Function
+
+
 End Class

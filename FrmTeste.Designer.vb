@@ -24,6 +24,7 @@ Partial Class FrmTeste
     Private Sub InitializeComponent()
         Me.btnTeste = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.txtConvenioNome = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'btnTeste
@@ -44,18 +45,28 @@ Partial Class FrmTeste
         Me.Button1.Text = "INSERT"
         Me.Button1.UseVisualStyleBackColor = True
         '
+        'txtConvenioNome
+        '
+        Me.txtConvenioNome.Location = New System.Drawing.Point(363, 239)
+        Me.txtConvenioNome.Name = "txtConvenioNome"
+        Me.txtConvenioNome.Size = New System.Drawing.Size(100, 20)
+        Me.txtConvenioNome.TabIndex = 2
+        '
         'FrmTeste
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(604, 376)
+        Me.Controls.Add(Me.txtConvenioNome)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.btnTeste)
         Me.Name = "FrmTeste"
         Me.Text = "FrmTeste"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents btnTeste As System.Windows.Forms.Button
     Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents txtConvenioNome As System.Windows.Forms.TextBox
 End Class
