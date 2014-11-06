@@ -22,3 +22,9 @@ C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Man
 C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Manager.dll
 C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Manager.xml
 C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Manager\obj\Debug\Manager.pdb
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Manager\obj\Debug\Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Manager\obj\Debug\Manager.Resources.resources
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Manager\obj\Debug\Manager.vbproj.GenerateResource.Cache
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Manager\obj\Debug\Manager.dll
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Manager\obj\Debug\Manager.xml
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Manager\obj\Debug\Manager.pdb

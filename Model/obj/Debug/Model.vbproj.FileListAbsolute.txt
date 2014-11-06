@@ -16,3 +16,8 @@ C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\obj\Debug\Model
 C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\obj\Debug\Model.dll
 C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\obj\Debug\Model.xml
 C:\Users\Jefferson\Documents\Faculdade\Repositorio\clinica\Model\obj\Debug\Model.pdb
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Model\obj\Debug\Model.Resources.resources
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Model\obj\Debug\Model.vbproj.GenerateResource.Cache
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Model\obj\Debug\Model.dll
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Model\obj\Debug\Model.xml
+C:\Users\Jean\Documents\GitHub\Projetos\clinica\Model\obj\Debug\Model.pdb

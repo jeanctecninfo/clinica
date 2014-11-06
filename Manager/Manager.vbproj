@@ -45,6 +45,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -63,6 +65,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConvenioManager.vb" />
+    <Compile Include="frmTeste.Designer.vb">
+      <DependentUpon>frmTeste.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeste.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
